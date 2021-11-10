@@ -1,5 +1,5 @@
 # TradingBot6M
-# NHS Digital Data Science Internship Project November 2019
+# Kennedy Institute of Rheumatology University of Oxford Project November 2019
 
 ## Run
 
